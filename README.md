@@ -13,11 +13,11 @@ This project sets up an interactive AI Command Line Interface (CLI) using Eleuth
 1. **Clone the Repository:**
 
    ```bash
-   git clone <your-repo-url>
-   cd local-ai-cli
+   git clone https://github.com/nathanrosas/bash-creator.git
+   cd bash-creator
 
 2. **Run the Setup Script:**
 
   ```bash
-  chmod +x setup_ai_cli.sh
-  ./setup_ai_cli.sh
+  chmod +x setup_local_ai.sh
+  ./setup_local_ai.sh
