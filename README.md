@@ -21,7 +21,3 @@ This project sets up an interactive AI Command Line Interface (CLI) using Eleuth
   ```bash
   chmod +x setup_ai_cli.sh
   ./setup_ai_cli.sh
-
-3. **Start AI Interaction:**
-
-The script will automatically launch the AI CLI after setup. Type exit to quit.
